@@ -31,7 +31,7 @@
                 //This method finds the discriminant
                 double discriminant = GetDiscriminant(firstVariable, secondVariable, thirdVariable);
 
-                //Displaying the different result in different colours, depend of value of discriminant
+                //Displaying the different result in different colors, depend of value of discriminant
                 //Here I am using a method which finds the roots
                 if (discriminant > 0)
                 {
